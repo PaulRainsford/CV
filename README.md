@@ -30,33 +30,31 @@ _Formwork Carpenter_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Fast Learner
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+- When I first opened the doors of my own pub without any experience of running a business, I had to very quickly learn on the job all the skills involved in making a business successful which was achieved in a short space of time. During the coding bootcamp self-led learning is encouraged no more so than during the group projects, the penultimate of which, after a group decision not to go with the more common Rails route, I managed to learn Node.js and Express from scratch within a week to produce a Facebook clone. For the final project of the course, again in a week, I was able to learn React and MongoDB to add to my previous knowledge and produce a MERN stack app. As these technologies are not taught on the course, they were learnt via finding relevant docs and tutorials online.
 
 
-#### This Skill
+#### Team Player
 
-- Experience
-- Achievements
-- Evidence (STAR)
+- Throughout my working life I have been able to work, and indeed thrive, as part of team. Whether on a construction site, in a busy pub or during a project on an intensive coding bootcamp, I have been fully committed to bringing all my knowledge and experience to the task in hand and collaborating with my colleagues to produce the best possible outcome.
 
-#### Another Skill
+### Excellent communicator
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+- The daily interaction with the public when working in and managing a pub requires and develops great communication skills. This proves a great asset when working on team projects to faciliate a smooth and harmonious workflow.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+### Calm under Pressure
+
+- Whether it was meeting targets on a construction site to keep the project on schedule, dealing with extremely busy periods or coping with staff shortages in a pub or learning brand new technologies in a matter of days to bring a group project to fruition, I have always thrived working under pressure and enjoyed it bringing the best out of me.
+
+### Inquisitive
+
+- I have always enjoyed learning and developing which is something I look forward to continuing in my development career.
+
+### Committed
+
+- Coming fron a totally non tech background and completing an entire 16 week bootcmp remotely has required considerable amounts of discipline and focus and commitment to the challenge.
+
 
 ## Education
 
