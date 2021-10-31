@@ -30,7 +30,7 @@ _Business Owner_
 _Formwork Carpenter_
 
 - Working as part of a pair or in a team to meet daily targets and finish project on schedule
-- 
+
 
 
 ## Skills
