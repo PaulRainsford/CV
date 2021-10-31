@@ -6,22 +6,27 @@ I have a strong desire to keep expanding my knowledge and improving my tech skil
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description       | Technologies used | Testing Technologies |
+| ---------------------------- | ----------------- | ----------------- | --------------------- |
+| **[Second Helpings](https://github.com/Nicola-Carroll/tech_for_good.git)**            | A webapp, for which we learned the MERN stack in a week, that connects businesses with surplus food to frontline charities | MERN Stack (MongoDB, Express, React, Node) Google Maps API, Geocoding API | Jest, Cypress |
+| **[Acebook](https://github.com/danroche10/acebook-it-does-not-node-well.git)** | A Facebook clone that allows users to make posts and interact with other users' content |Node, Express, PostgreSQL           | Jest, Cypress |
+ **[Bank Tech Test](https://github.com/PaulRainsford/bank_tech.git)** | A simple REPL program that replicates a bank account to practice code quality with OO design and TDD skills | Ruby | Rspec |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Hare and Hounds Public House** (October 2013 to March 2018)  
+**Peacock Public House** (December 1997 to August 2003)  
+_Business Owner_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Managing a busy Pub/Restaurant on a daily basis
+- Building, training and managing a team
+- Communication skills 
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Various Construction Companies** (periodically)  
+_Formwork Carpenter_
 
-- Any experience relevent to software development
+- Working as part of a pair or in a team to meet daily targets and finish project on schedule
+
 
 ## Skills
 
