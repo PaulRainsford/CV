@@ -4,6 +4,8 @@ A Junior Full Stack Developer with a passion for the use of best coding practice
 Seeking a new challenge, a childhood interest in programming was reignited during lockdown and now, having recently completed an intensive 16 week software development bootcamp at, the highly selective, Makers Academy, I am looking forward to beginning an exciting new chapter of my life as a software developer.<br>
 I have a strong desire to keep expanding my knowledge and improving my tech skills, a trait encouraged at Makers Academy, and look forward to working in an environment where this is encouraged and supported.
 
+
+
 ## Projects
 
 | Name                         | Description       | Technologies used | Testing Technologies |
@@ -11,6 +13,8 @@ I have a strong desire to keep expanding my knowledge and improving my tech skil
 | **[Second Helpings](https://github.com/Nicola-Carroll/tech_for_good.git)**            | A webapp, for which we learnt the MERN stack in a week, that connects businesses with surplus food to frontline charities | MERN Stack (MongoDB, Express, React, Node) Google Maps API, Geocoding API | Jest, Cypress |
 | **[Acebook](https://github.com/danroche10/acebook-it-does-not-node-well.git)** | A Facebook clone that allows users to make posts and interact with other users' content |Node, Express, PostgreSQL           | Jest, Cypress |
  **[Bank Tech Test](https://github.com/PaulRainsford/bank_tech.git)** | A simple REPL program that replicates a bank account to practice code quality with OO design and TDD skills | Ruby | RSpec |
+ 
+ 
 
 ## Work Experience
 
@@ -26,6 +30,7 @@ _Business Owner_
 _Formwork Carpenter_
 
 - Working as part of a pair or in a team to meet daily targets and finish project on schedule
+- 
 
 
 ## Skills
@@ -56,6 +61,7 @@ _Formwork Carpenter_
 - Coming fron a totally non tech background and completing an entire 16 week bootcamp remotely has required considerable amounts of discipline, focus and commitment to the challenge.
 
 
+
 ## Education
 
 #### Makers Academy (Jul '21 - Oct '21)
@@ -66,6 +72,7 @@ _Formwork Carpenter_
 - Developed an understanding of OOP, TDD, BDD, MVC, DDD and SOLID principles.
 - Independently and quickly learnt the new technologies needed to deliver the course group projects under strict time constraints.
 - Worked with Ruby, JavaScript, Node.js, Express, React, Sinatra, Bootstrap, PostgreSQL, MongoDB, RSpec, Capybara, Jasmine, Jest and Cypress.
+- 
 
 
 ## Hobbies
