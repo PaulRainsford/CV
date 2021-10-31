@@ -1,6 +1,8 @@
-## Your Name
+## Paul Rainsford
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A Junior Full Stack Developer with a passion for the use of best coding practices, including writing clean, well tested and reusable code.<br>
+Seeking a new challenge, childhood interest in programming was reignited during lockdown and now, having recently completed an intensive 16 week software development bootcmp at, the highly selective, Makers Academy, I am looking forward to beginning an exciting new chapter of my life as software developer.<br>
+I have a strong desire to keep expanding my knowledge and improving my tech skills, a trait encouraged at Maker Academy, and look forward to working in an environment where this is encouraged and supported.
 
 ## Projects
 
